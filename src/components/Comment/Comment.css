@@ -1,0 +1,24 @@
+.delete {
+  color: red;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.comment-holder {
+  border-left: 2px solid #dddfe2;
+  margin-left: 20px;
+}
+
+.comment-text {
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 14px;
+  color: #000;
+  width: 100%;
+  margin-left: 20px;  
+}
+
+.new-comment {
+  margin-top: 10px;
+  margin-left: 20px;    
+}

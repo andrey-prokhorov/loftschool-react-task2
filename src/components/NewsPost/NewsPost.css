@@ -1,0 +1,11 @@
+.news-post {
+  border-radius: 3px;
+  padding: 12px;
+  width: 100%;
+  background-color: #f6f7f9;
+  margin-top: 10px;
+}
+
+.add-comment {
+  margin-left: 10px;
+}
