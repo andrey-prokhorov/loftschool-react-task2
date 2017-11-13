@@ -10,8 +10,7 @@ export class NewsPost extends Component {
   };
 
   handleChange = event => {
-    const value = event.target.value;
-    this.setState({ commentInput: value });
+    this.setState({ commentInput: event.target.value });
   };
 
   handleKeyDown = event => {
