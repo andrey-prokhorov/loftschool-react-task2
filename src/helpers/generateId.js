@@ -1,4 +1,3 @@
-export default function generateId() {
-    const uniqueId = Math.floor(new Date().valueOf() * Math.random())
-    return uniqueId;
-}
+const generateId = () => Math.floor(new Date().valueOf() * Math.random())
+
+export default generateId;
